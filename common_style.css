@@ -18,10 +18,10 @@ body{
 }
 
 
-img{
+img {
     display: grid;
     height: 100%;
-    max-width: 100%;
+    max-width: 100vh;
     max-height: 100vh;
     margin: auto;
 }
